@@ -1,0 +1,39 @@
+body{
+	background-color: #0182B8;
+	width: 600px;
+	margin: auto;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	overflow-y: hidden;
+}
+img{
+	height: 120px;
+	margin-top: 30px;
+}
+h1{
+	color: #002949;
+	font-family: 'Lobster', cursive;
+	font-size: 3.3em;
+	text-align: right;
+	margin: -80px 100px 10px 0;
+}
+h3{
+	color: #21BFEB;
+	font-family: 'Questrial', sans-serif;
+	margin: 15px 0 0;
+}
+#tweet-container{
+	background-color: #0182B8;
+	width: 500px;
+	margin: auto;
+}
+.tweet{
+	background-color: #E7F2F4;
+	box-shadow: 0 0 3px #FCFCFA;
+	margin: 6px 0;
+	padding: 3px 15px;
+	display: none;
+}
+.tweet p{
+	margin: 5px 0 15px;
+}
