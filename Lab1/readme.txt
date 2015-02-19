@@ -11,7 +11,6 @@ Files include in xianp-CSCI4976-lab1.zip:
 --readme.txt
 --tweets.json
 
-First of all, I remembered the due date is on either Wednesday or Thursday night and I didn't double check it so I really feel sorry about submit this lab assignment late. =(
 
 Some notes and observation:
 
